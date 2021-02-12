@@ -13,7 +13,7 @@ There are two primary objectives of this challenge:
 1. Read in the product data located at https://my-json-server.typicode.com/samuelbeyeler/eng-challenge-proposal/products and convert it to a 'standard' format
 1. Host an API that fulfills the API Contract found in `contract.yaml`using the data from step 1
 
-There are three 'bonus' objectives
+There are three 'optional' objectives: (a submission without these is 100% complete and will not be considered less than one with these, they will just add additional datapoints to the submission)
 
 1. Adding unit tests to the application
 1. Wrapping the application in a docker container
